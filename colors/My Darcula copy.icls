@@ -1,0 +1,35 @@
+<scheme name="My Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
+  <metaInfo>
+    <property name="created">2017-04-28T21:50:10</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-04-28T21:53:10</property>
+    <property name="originalScheme">My Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Operator Mono Book" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <attributes>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="6d9cbe" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
