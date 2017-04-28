@@ -4,7 +4,7 @@
     <property name="created">2017-04-28T21:50:10</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-04-28T22:15:18</property>
+    <property name="modified">2017-04-28T22:40:28</property>
     <property name="originalScheme">My Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -20,6 +20,58 @@
   <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <attributes>
+    <option name="CSS.BRACES">
+      <value>
+        <option name="FOREGROUND" value="5fb3b3" />
+      </value>
+    </option>
+    <option name="CSS.COLON">
+      <value>
+        <option name="FOREGROUND" value="5fb3b3" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="CSS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="5fb3b3" />
+      </value>
+    </option>
+    <option name="CSS.DOT">
+      <value>
+        <option name="FOREGROUND" value="5fb3b3" />
+      </value>
+    </option>
+    <option name="CSS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="f99157" />
+      </value>
+    </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="c594c5" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="c594c5" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="fac863" />
+      </value>
+    </option>
+    <option name="CSS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="5fb3b3" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ec5f67" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="6d9cbe" />
