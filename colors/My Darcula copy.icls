@@ -1,10 +1,10 @@
 <scheme name="My Darcula copy" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-04-28T21:50:10</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-07-09T19:11:12</property>
+    <property name="modified">2017-07-13T00:18:45</property>
     <property name="originalScheme">My Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -17,7 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <attributes>
     <option name="CSS.BRACES">
