@@ -4,7 +4,7 @@
     <property name="created">2017-04-28T21:50:10</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-07-13T21:13:59</property>
+    <property name="modified">2017-07-30T17:41:10</property>
     <property name="originalScheme">My Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -87,6 +87,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.BRACES">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="JS.FUNCTION_ARROW">
