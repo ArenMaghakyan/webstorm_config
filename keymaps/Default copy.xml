@@ -2,10 +2,10 @@
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="AceLineAction" />
-  <action id="AceTargetAction">
+  <action id="AceLineAction">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="AceTargetAction" />
   <action id="EditorDeleteLine" />
   <action id="EditorScrollToCenter">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
