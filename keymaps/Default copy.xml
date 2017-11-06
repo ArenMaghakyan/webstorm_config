@@ -1,0 +1,16 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="AceLineAction">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="AceTargetAction" />
+  <action id="EditorDeleteLine" />
+  <action id="EditorScrollToCenter">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+</keymap>

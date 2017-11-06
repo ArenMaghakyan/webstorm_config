@@ -1,41 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <recentFileMasks>
-      <mask>m.html</mask>
-      <mask>ma.html</mask>
-      <mask>man.html</mask>
-      <mask>mana.html</mask>
-      <mask>manag.html</mask>
-      <mask>manage.html</mask>
-      <mask>prhtml</mask>
-      <mask>phtml</mask>
-      <mask>html</mask>
-      <mask>.html</mask>
-      <mask>*prev.html</mask>
-      <mask>*pre.html</mask>
-      <mask>*pr.html</mask>
-      <mask>*p.html</mask>
-      <mask>*.html</mask>
-      <mask>*a.html</mask>
-      <mask>*ar.html</mask>
-      <mask>*art.html</mask>
-      <mask>*arti.html</mask>
-      <mask>*artic.html</mask>
-      <mask>*articl.html</mask>
-      <mask>*article.html</mask>
-      <mask>*articlep.html</mask>
-      <mask>*articlepr.html</mask>
-      <mask>*articlepre.html</mask>
-      <mask>*articleprev.html</mask>
-      <mask>*articleprevi.html</mask>
-      <mask>*articleprevie.html</mask>
-      <mask>*articlepreview.html</mask>
-      <mask>*articlepreview*.html</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
