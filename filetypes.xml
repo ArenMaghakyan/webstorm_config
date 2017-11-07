@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="user" type="Jade" />
       <mapping pattern="SelectMulti.js" type="Native" />
       <mapping ext="service" type="TypeScript" />
     </extensionMap>
