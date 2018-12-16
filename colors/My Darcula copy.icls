@@ -4,7 +4,7 @@
     <property name="created">2017-04-28T21:50:10</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-07-30T17:41:10</property>
+    <property name="modified">2018-12-16T17:35:38</property>
     <property name="originalScheme">My Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -77,6 +77,9 @@
         <option name="FOREGROUND" value="6d9cbe" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value />
     </option>
     <option name="HAML_STRING">
       <value>
